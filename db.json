@@ -1,6 +1,6 @@
 {
   "test":{
-    "result":true
+    {"result":true}
   },
   "posts": [
     { "id": 1, "title": "Post 1" },
